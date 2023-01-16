@@ -6,7 +6,7 @@ Hello! I'm Ivna Feitosa, Wellcome to my profile
 - 😄 Pronouns: she, her
 
 
-Olá! Sou Ivna Feitosa, bem vindo ao meu perfil!
+Olá! Sou Ivna Feitosa, bem-vindo ao meu perfil!
 
 - 🔭 Atualmente trabalho com desenvolvimento web front-end
 - 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
