@@ -13,3 +13,20 @@ Hello, everyone! I'm Ivna Feitosa, Wellcome to my profile
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivnafeitosa&theme=radical"/>
 
 </div>
+ 
+  
+<div style:"display: inline_block"><br>
+ <img align="center" alt="ivna-figma" height="30em" wifth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+ <img align="center" alt="ivna-html" height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img align="center" alt="ivna-html" height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/ivna-feitosa-263b82123/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+  <a href="mailto:ivnacontato.dev@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://discord.gg/fUmXdfFf" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</div>
+  
+
