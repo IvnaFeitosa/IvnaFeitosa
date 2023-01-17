@@ -15,8 +15,8 @@ Olá! Sou Ivna Feitosa, bem-vindo ao meu perfil!
 
 <div>
   <a href="https://github.com/IvnaFeitosa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvnaFeitosa&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvnaFeitosa&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivnafeitosa&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivnafeitosa&theme=radical"/>
     
 
 </div>
