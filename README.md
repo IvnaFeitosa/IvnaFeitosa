@@ -1,7 +1,6 @@
 Hello! I'm Ivna Feitosa, Wellcome to my profile
 
 - 🔭 I’m currently working with front end web development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💬 languages: Portuguese and english
 - 😄 Pronouns: she, her
 
@@ -9,7 +8,6 @@ Hello! I'm Ivna Feitosa, Wellcome to my profile
 Olá! Sou Ivna Feitosa, bem-vindo ao meu perfil!
 
 - 🔭 Atualmente trabalho com desenvolvimento web front-end
-- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
 - 💬 idiomas: português e inglês
 - 😄 Pronomes: ela, dela
 
