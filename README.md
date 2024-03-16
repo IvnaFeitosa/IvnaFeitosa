@@ -26,9 +26,11 @@ Olá! Sou Ivna Feitosa, bem-vindo ao meu perfil!
  <img align="center" alt="ivna-css" height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img align="center" alt="ivna-JavaScript" height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  <img align="center" alt="ivna-java" height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
- 
+  <img align="center" alt="ivna-python" height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
  <img align="center" alt="ivna-bootstrap" height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
- <img align="center" alt="ivna-react" height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="ivna-react" height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+ <img align="center" alt="ivna-mySQL" height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="ivna-laravel" height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
  <img align="right" alt="ivna-yoda" height="150em" width="150" src="https://media.discordapp.net/attachments/1013474353876312107/1064680414293262436/gifivnaoriginal.gif" />
   
 </div>
