@@ -7,7 +7,7 @@ Hello! I'm Ivna Feitosa, Wellcome to my profile
 
 Olá! Sou Ivna Feitosa, bem-vindo ao meu perfil!
 
-- 🔭 Atualmente trabalho com desenvolvimento web front-end
+- 🔭 Desenvolvedora front-end
 - 💬 idiomas: português e inglês
 - 😄 Pronomes: ela, dela
 
