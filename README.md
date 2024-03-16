@@ -1,6 +1,6 @@
 Hello! I'm Ivna Feitosa, Wellcome to my profile
 
-- 🔭 I’m currently working as a front-end developer
+- 🔭 I’m a front-end developer
 - 💬 languages: Portuguese and english
 - 😄 Pronouns: she, her
 
