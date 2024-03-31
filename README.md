@@ -31,7 +31,7 @@ Olá! Sou Ivna Feitosa, bem-vindo ao meu perfil!
   <img align="center" alt="ivna-react" height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
  <img align="center" alt="ivna-mySQL" height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="ivna-laravel" height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
- <img align="right" alt="ivna-yoda" height="150em" width="150" src="https://media.discordapp.net/attachments/1013474353876312107/1064680414293262436/gifivnaoriginal.gif" />
+ <img align="right" alt="ivna-yoda" height="150em" width="150" src="https://i.picasion.com/pic92/9cf3bdde92721243781e96fb37d312d4.gif"/>
   
 </div>
 
