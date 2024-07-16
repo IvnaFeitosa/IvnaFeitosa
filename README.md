@@ -1,13 +1,13 @@
 Hello! I'm Ivna Feitosa, Wellcome to my profile
 
-- 🔭 I’m a front-end developer
+- 🔭 I’m a FullStack developer
 - 💬 languages: Portuguese and english
 - 😄 Pronouns: she, her
 
 
 Olá! Sou Ivna Feitosa, bem-vindo ao meu perfil!
 
-- 🔭 Desenvolvedora front-end
+- 🔭 Desenvolvedora FullStack
 - 💬 idiomas: português e inglês
 - 😄 Pronomes: ela, dela
 
