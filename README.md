@@ -1,13 +1,13 @@
 Hello! I'm Ivna Feitosa, Wellcome to my profile
 
-- 🔭 I’m a Back-end developer
+- 🔭 I’m a Back-End Software Developer
 - 💬 languages: Portuguese and english
 - 😄 Pronouns: she, her
 
 
 Olá! Sou Ivna Feitosa, bem-vindo ao meu perfil!
 
-- 🔭 Desenvolvedora Back-end
+- 🔭 Desenvolvedora de Software Back-end
 - 💬 idiomas: português e inglês
 - 😄 Pronomes: ela, dela
 
